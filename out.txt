@@ -1,0 +1,3 @@
+ThreadID=0, startLoop=0, endLoop=2
+ThreadID=1, startLoop=2, endLoop=4
+numOfEven=16, numOfOdd=0, totalCells=16
